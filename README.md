@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zamanizaini
-- 👀 I’m interested in PHP,Angular,Flutter
-- 🌱 I’m currently learning PHP,Angular
+
 
 
 <!---
